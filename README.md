@@ -1,5 +1,5 @@
 # UTS_Prog3_24183207002
-![image alt](https://github.com/FitriMalinda19/ujicoba/blob/2b28493381c6e0a82f9cc89e9865130cff418cd8/ssrun.png)
+![image alt](https://github.com/FitriMalinda19/UTS_Prog3_24183207002/blob/66da7f2e79328de3a352a19dbbb37571ef3e2853/ssrun.png)
 ![iimage alt]()
 Atribut Utama (Variabel Global)
 - daftarPesanan: Sebuah ArrayList untuk menampung daftar item makanan/minuman yang dipilih oleh pelanggan sebelum dicetak ke struk.
