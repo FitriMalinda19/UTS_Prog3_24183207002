@@ -1,6 +1,6 @@
 # UTS_Prog3_24183207002
-![image alt]()
-
+![image alt](https://github.com/FitriMalinda19/UTS_Prog3_24183207002/blob/4b4aeca5f1fd470e7474e19078e379c070d16a87/ssrun.png)
+![iimage alt]()
 Atribut Utama (Variabel Global)
 - daftarPesanan: Sebuah ArrayList untuk menampung daftar item makanan/minuman yang dipilih oleh pelanggan sebelum dicetak ke struk.
 - totalBiaya: Variabel integer untuk menyimpan akumulasi total harga yang harus dibayar.
